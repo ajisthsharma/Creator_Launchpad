@@ -1,0 +1,6 @@
+{
+  "name": "Creator Launchpad",
+  "description": "A launch platform where student creators showcase projects, share stories, receive constructive feedback, and build public portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
